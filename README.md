@@ -26,4 +26,14 @@ Other Azure Technologies : App Service
 Azure Bot Service is used help user by answering some of there questions related to our e-commerce website like refunding or return/exchange clothing articles etc. It hosts bots and makes them available to channels, such as Microsoft Teams, Facebook, or Slack. The Bot Framework Service, which is a component of the Azure Bot Service, sends information between the user's bot-connected app and the bot.
 ![Screenshot (79)](https://user-images.githubusercontent.com/91634144/153048784-5ab9bc50-2b47-4189-95fd-bc65ba2de650.png)
 
+![Screenshot (81)](https://user-images.githubusercontent.com/91634144/153048905-90522189-499a-42e8-836b-ccb57a94da83.png)
+
+
+![Screenshot (81)](https://user-images.githubusercontent.com/91634144/153048950-3b570a1c-3f41-4bf9-a719-4ae9b484e191.png)
+
+
+![Screenshot (83)](https://user-images.githubusercontent.com/91634144/153049009-2cb49520-6318-42ea-865d-fecd16e63d2a.png)
+
+
+![Screenshot (80)](https://user-images.githubusercontent.com/91634144/153049041-a7924580-c9b2-4235-ae82-43ce0a373d61.png)
 
