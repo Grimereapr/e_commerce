@@ -22,3 +22,8 @@ Primary Azure Technology :
 Azure Bot Service, QnA Maker, Static Web Apps
 
 Other Azure Technologies : App Service
+
+Azure Bot Service is used help user by answering some of there questions related to our e-commerce website like refunding or return/exchange clothing articles etc. It hosts bots and makes them available to channels, such as Microsoft Teams, Facebook, or Slack. The Bot Framework Service, which is a component of the Azure Bot Service, sends information between the user's bot-connected app and the bot.
+![Screenshot (79)](https://user-images.githubusercontent.com/91634144/153048784-5ab9bc50-2b47-4189-95fd-bc65ba2de650.png)
+
+
